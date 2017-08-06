@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on Dennis Eugene Stepp, Jr.</title>
+    <link>/tags/productivity/</link>
+    <description>Recent content in Productivity on Dennis Eugene Stepp, Jr.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ludum Dare 39: Running Out of Power</title>
+      <link>/post/ludumdare39/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ludumdare39/</guid>
+      <description>Yesterday concluded Ludum Dare 39, a global game jam in which thousands of participants come together to pair up or fly solo to create a game from scratch. There are two different modes you can decide from: the compo (48 hours, solo) or the jam (72 hours, solo/team). For the 39th Ludum Dare, my good friend Daniel, artist/composer came to stay with me over the weekend (I went to see him on the 38th Ludum Dare).</description>
+    </item>
+    
+    <item>
+      <title>Finding Your Headspace</title>
+      <link>/post/headspace/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/headspace/</guid>
+      <description>For the last few years, I&amp;rsquo;ve essentially been a software developer doing Tier 1 support. Instead of proactively being able to simplify and optimize our software solutions, all I could do was react to the business units who were reporting issues. The pile of bugs kept growing and growing and managing those bugs proved to be in itself almost a full time job. I know that I&amp;rsquo;m not the first developer to be in this situation and I certainly won&amp;rsquo;t be the last.</description>
+    </item>
+    
+  </channel>
+</rss>
