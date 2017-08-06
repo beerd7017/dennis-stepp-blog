@@ -1,0 +1,39 @@
+baseURL = "/"
+languageCode = "en-us"
+paginate = "5"
+title = "Dennis Eugene Stepp, Jr."
+theme = "mainroad"
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "Dennis Eugene Stepp, Jr."
+    bio = "I am a software developer at Radio Systems Corporation in Knoxville, TN. My interests include: process and workflow optimization, automation, JAMstack technologies, software architecture, object oreinted languages, and game development. Outside of technolgy I spend my time volunteering as a stage manager at the Earl Park Fall Festival in Earl Park, IN. He also collects retro PC/console video games, dabbles in gardening, and also woodworking. Did I mention I also play hockey in beer league? Oh yeah, and I like craft beer as well."
+    avatar = "img/profile.png"
+
+
+[Params]
+    subtitle = "Sharpen Your Axe" # Subtitle of your site
+    description = " The ramblings of Dennis Stepp's personal blog about possibly anything." # Description of your site
+    opengraph = true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+    dateformat = "2006-01-02" # change the format of dates
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_facebook = "dj.stepp.7"
+    social_twitter = "destepp"
+    social_linkedin = "dennisstepp"
+    social_github = "destepp11"
+    social_email = "destepp11@gmail.com"
