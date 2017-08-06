@@ -13,7 +13,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params]
     subtitle = "Sharpen Your Axe" # Subtitle of your site
-    description = " The ramblings of Dennis Stepp's personal blog about possibly anything." # Description of your site
+    description = " The ramblings of Dennis' personal blog about possibly anything." # Description of your site
     opengraph = true
     readmore = false # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
