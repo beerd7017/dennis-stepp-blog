@@ -22,13 +22,9 @@
 			<div class="container container-inner clearfix">
 				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
 					<a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
-                            <img class="studio__logo" src='/img/unibearstudiologo.png' >
+						<h1 class="logo__title">{{ .Site.Title }}</h1>
+						{{ with .Site.Params.subtitle }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
 					</a>
-                    <a href="/"> {{ with .Site.Params.subpage1 }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
-                    <a href="/games"> {{ with .Site.Params.subpage2 }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
-                    <a href="/tutorials"> {{ with .Site.Params.subpage3 }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
-                    <a href="/about"> {{ with .Site.Params.subpage4 }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
-                    <a href="/contact"> {{ with .Site.Params.subpage5 }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
 				</div>
 			</div>
 			{{ partial "menu.html" . }}
