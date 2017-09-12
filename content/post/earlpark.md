@@ -1,6 +1,6 @@
 +++
 title = "Managing the Stage"
-description = "Give people a firm handshake and a smile. You'll turn their day around."
+description = "A firm handshake and a smile will turn their day around."
 date = "2017-09-11"
 categories = ['Communication']
 tags = ['Bluegrass', 'Personal Development', 'Communication', 'Volunteering']
