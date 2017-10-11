@@ -38,4 +38,6 @@ Add a .sql script for flyway to migration
 
 Run gradle flywayInfo
 
+set baselineOnMigrate=true
+
 Run gradle flywayMigrate
