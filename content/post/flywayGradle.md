@@ -31,6 +31,9 @@ Setup local maven repo
 
 Add Oracle jdbc jar to local maven repo
 
+````mvn install:install-file -Dfile="lib/ojdbc6.jar" -DgroupId="com.oracle"  -DartifactId="ojdbc6" -Dversion="11.2.0.4" -Dpackaging="jar" -DgeneratePom="true"````
+
+
 Add a .sql script for flyway to migration
 
 Run gradle flywayInfo
