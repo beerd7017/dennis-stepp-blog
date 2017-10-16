@@ -65,15 +65,17 @@ Finally, we declare some flyway properties like url, driver, etc.
     }
     
 The `url` property is the connection string to your Oracle database.
+The `table` property is the name of the table that will hold the metadata.
+The `baselineOnMigrate` property dictates whether or not to take a baseline of the schema when migrating.
 
+# Setup the Oracle JDBC Driver
 
-Download Oracle jdbc jar
+* Download and install [Maven `3.5.0`](https://maven.apache.org/download.cgi). 
+* You can download the [Oracle JDBC Driver](http://www.oracle.com/technetwork/database/enterprise-edition/jdbc-112010-090769.html) from this link.
 
-Setup local maven repo
+We have to install the JDBC driver to our local maven repository because Oracle's licensing prohibits the driver from being available publicly. The follow command will install this in the local repo. 
 
-Add Oracle jdbc jar to local maven repo
-
-`mvn install:install-file -Dfile="lib/ojdbc6.jar" -DgroupId="com.oracle"  -DartifactId="ojdbc6" -Dversion="11.2.0.4" -Dpackaging="jar" -DgeneratePom="true"`
+`mvn install:install-file -Dfile="{path/to/ojdbc6.jar}" -DgroupId="com.oracle"  -DartifactId="ojdbc6" -Dversion="11.2.0.4" -Dpackaging="jar" -DgeneratePom="true"`
 
 Add a .sql script for flyway to migration
 
