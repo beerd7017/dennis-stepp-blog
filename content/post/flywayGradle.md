@@ -1,7 +1,7 @@
 +++
 title = "Flyway, Gradle, Oracle JDBC"
 description = "How to setup the Flyway Gradle plugin and connecting to an Oracle Database."
-date = "2017-10-11"
+date = "2017-10-16"
 categories = ['Automation', 'Programming', 'Database', 'Productivity']
 tags = ['Gradle', 'Oracle', 'Flyway', 'Maven', 'Java', 'IntelliJ IDEA']
 thumbnail = "img/posts/flywayGradle/post_main.png"
