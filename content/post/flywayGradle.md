@@ -2,9 +2,9 @@
 title = "Flyway, Gradle, Oracle JDBC"
 description = "How to setup the Flyway Gradle plugin and connecting to an Oracle Database."
 date = "2017-10-11"
-categories = ['Automation', 'Programming', 'Database']
-tags = ['Gradle', 'Oracle', 'Flyway', 'Maven', 'Productivity']
-thumbnail = "img/posts/flywayGradle/gradlephant.png"
+categories = ['Automation', 'Programming', 'Database', 'Productivity']
+tags = ['Gradle', 'Oracle', 'Flyway', 'Maven', 'Java', 'IntelliJ IDEA']
+thumbnail = "img/posts/flywayGradle/post_main.png"
 +++
 
 I'm writing this blog post to hopefully help out some poor soul who is trying to automate their Oracle database deployments using the [Flyway](https://flywaydb.org) plugin for [Gradle](https://gradle.org/). This was kind of a pain to accomplish because at the time of this post the documentation was scattered about and difficult to piece together. Let's take care of that. ``</rant>``
@@ -64,9 +64,9 @@ Finally, we declare some flyway properties like url, driver, etc.
         baselineOnMigrate=true
     }
     
-The `url` property is the connection string to your Oracle database.
-The `table` property is the name of the table that will hold the metadata.
-The `baselineOnMigrate` property dictates whether or not to take a baseline of the schema when migrating.
+* The `url` property is the connection string to your Oracle database.
+* The `table` property is the name of the table that will hold the metadata.
+* The `baselineOnMigrate` property dictates whether or not to take a baseline of the schema when migrating.
 
 # Setup the Oracle JDBC Driver
 
@@ -77,10 +77,45 @@ We have to install the JDBC driver to our local maven repository because Oracle'
 
 `mvn install:install-file -Dfile="{path/to/ojdbc6.jar}" -DgroupId="com.oracle"  -DartifactId="ojdbc6" -Dversion="11.2.0.4" -Dpackaging="jar" -DgeneratePom="true"`
 
-Add a .sql script for flyway to migration
+# Create a SQL script
 
-Run gradle flywayInfo
+By default the Flyway plugin for Gradle expects your SQL script in this directory structure: ```src/main/resources/db/migration/```. By default it also expects the filename to be something like this: ```V1__Create_person_table.sql```. Let's create the script with the following SQL code.
 
-set baselineOnMigrate=true
+     create table PERSON (
+        ID int not null,
+        NAME varchar(100) not null
+     );
 
-Run gradle flywayMigrate
+# Execute the gradle script
+
+Now simply run the gradle script and Flyway will execute our SQL code.
+
+     gradle flywayMigrate -i 
+
+If all is well you'll notice in the output:
+
+     Creating Metadata table: "APPS"."schema_version"
+     Migrating schema "APPS" to version 1 - Create person table
+     Successfully applied 1 migration to schema "APPS (execution time 00:00.071s).
+
+# Adding Another Migration
+
+Let's insert some records to our ```PERSON``` table we just created by writing a script called ```V2__Add_people.sql```.
+
+     insert into PERSON (ID, NAME) values (1, 'Kirk');
+     insert into PERSON (ID, NAME) values (2, 'Spock');
+     insert into PERSON (ID, NAME) values (3, 'Scotty');
+     
+Execute the script:
+
+     gradle flywayMigrate -i
+     
+Now you'll see:
+
+     Currect version of schema "APPS": 1
+     Migrating schema "APPS" to version 2 - Add people
+     Sucessfully applied 1 migration to schema "APPS" (execution time 00:00:071s).
+     
+# Summary
+
+I hope you enjoyed this short description on how to handle Gradle, Flyway, and Oracle databases. This isn't the only way to approach database deployments and this may not be the best solution for your purposes. But I hope this at least helps you think about and experiment with automating your database deployments. 
