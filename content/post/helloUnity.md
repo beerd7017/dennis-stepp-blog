@@ -11,7 +11,7 @@ You could say I'm pretty green when it comes to knowing my way around the [Unity
 
 # Update Unity Preference
 
-I'm going to do you a real solid. Trust me, you'll want to update the `Playmode tint` to a really obnoxious color like `#E70C6EFF` so that you know for a fact when you are in `Play` mode.  
+I'm going to do you a real solid. Trust me, you'll want to update the `Playmode tint` to a really obnoxious color like `#E70C6EFF` so that you know for a fact when you are in `Play` mode. Props to [@DJFariel](https://twitter.com/DJFariel) for that tip.   
 
 ![1_preferences](/img/posts/helloUnity/1_preferences.png  "Preferences")
 
