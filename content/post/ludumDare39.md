@@ -4,7 +4,7 @@ description = "A postmortem analysis of Ludum Dare 39"
 date = "2017-08-01"
 categories = ['Game Development', 'Design','Productivity', 'Programming', 'Unibear Studio']
 tags = ['Unibear Studio', 'Ludum Dare', 'Game Development', 'Design', 'Productivity', 'Programming']
-thumbnail = "img/posts/fizzle-itchbanner.png"
+thumbnail = "img/posts/ld39/fizzle-itchbanner.png"
 +++
 
 Yesterday concluded [Ludum Dare 39](www.ldjam.com), a global game jam in which thousands of participants come together to pair up or fly solo to create a game from scratch. There are two different modes you can decide from: the *compo* (48 hours, solo) or the *jam* (72 hours, solo/team). For the 39th Ludum Dare, my good friend Daniel, artist/composer came to stay with me over the weekend (I went to see him on the 38th Ludum Dare). Meanwhile, our lead programmer was staying at his home.
@@ -27,7 +27,7 @@ __Day 1__
 
 Of course the theme that was chosen was one of the ones I had the least amount of notes and good ideas for. The theme was "**Running Out of Power**." We went back and forth on a few ideas and then we came around full circle to and idea. This wasn't good. It was the same exact pattern of LD38, where we damn near scraped the entire project of day 2 and started over. Luckily, I remembered something that had resonated with me from a video I found on YouTube, where concept artist, **Matt Rhodes** discusses the importance of [knowing the story of a character] (https://www.youtube.com/watch?v=m2BRl1hWnnY&t=2612s) when drawing it. I think it's really the same kind of thing for game design. I think things tend to work better when you first start with the character instead of the setting. So I told Dan, the artist, to shut up and just draw the first thing that came to his mind. The result was this little service robot.
  
- ![fizzle_bot](/img/posts/fizzlebot.png  "Unit-F155L3")
+ ![fizzle_bot](/img/posts/ld39/fizzlebot.png  "Unit-F155L3")
  
 Once we all saw the service robot, a very fuzzy outline of a story started coming to light. This was enough to get us started and work on art assets, the main game play system, and the menu UI began. It was just after 1AM Saturday morning when we all decided to go to bed and get back to work at 8AM.
 
@@ -47,8 +47,8 @@ Overall, this was a very enjoyable weekend and I had a lot of fun. I also learne
 
 Now on [itch.io] (https://unibear-studio.itch.io/fizzle)!
 
-![fissle_background](/img/posts/fizzle_background.png "Fizzle Desktop Background")
+![fissle_background](/img/posts/ld39/fizzle_background.png "Fizzle Desktop Background")
 
 You can also check out [Unibear Studio](http://unibearstudio.com/)!
 
-![unibear_studio](/img/posts/unibearstudio.png "Unibear Studio Logo")
+![unibear_studio](/img/posts/ld39/unibearstudio.png "Unibear Studio Logo")
