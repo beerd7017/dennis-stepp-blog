@@ -4,7 +4,7 @@ description = "Increase your productivity by deliberately setting time aside for
 date = "2017-03-17"
 categories = ['Productivity']
 tags = ['Design', 'Personal Development', 'Productivity', 'Programming', 'SDLC']
-thumbnail = "img/posts/headspace.png"
+thumbnail = "img/posts/headspace/headspace.png"
 +++
 
 For the last few years, I've essentially been a software developer doing Tier 1 support. Instead of proactively being able to simplify and optimize our software solutions, all I could do was react to the business units who were reporting issues. The pile of bugs kept growing and growing and managing those bugs proved to be in itself almost a full time job. I know that I'm not the first developer to be in this situation and I certainly won't be the last. If you haven't been in this spiral of decay let me tell you something: __It Bleeping Sucks!__ Just know that it doesn't have to be this way. 
@@ -39,7 +39,7 @@ I decided to design my week with some themes that I feel are important for a sof
 
 Here's a look at my calendar I've created.
 
-![calendar_view](/img/posts/calendar.png  "A Look at My Calendar")
+![calendar_view](/img/posts/headspace/calendar.png  "A Look at My Calendar")
 
 __Update: August 5, 2017__ After a few months of sticking to a schedule like this, it has increased my productivity, decreased my anxiety, and provided me with a great means to better myself and improve everyday. If you've been struggling to feel like your actually going somewhere, I highly suggest you implement this system into your life. I mean, if [the guy that wrote the Dilbert cartoons] (http://blog.dilbert.com/post/102964992706/goals-vs-systems "Goals vs. Systems") says it works, what excuse could you have not to try it?   
 
