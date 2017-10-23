@@ -12,8 +12,10 @@ googleAnalytics = "UA-106319098-1" # Enable Google Analytics by entering your tr
     avatar = "img/profile.png"
 
 [Params]
+    subpage1 = "Posts"
+    subpage2 = "About Me"
     subtitle = "Sharpen Your Axe" # Subtitle of your site
-    description = " The ramblings of Dennis' personal blog about possibly anything." # Description of your site
+    description = "The journey of sharping technical and soft skills as a software developer." # Description of your site
     opengraph = true
     readmore = false # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true

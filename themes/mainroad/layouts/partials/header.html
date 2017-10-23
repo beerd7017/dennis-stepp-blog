@@ -25,6 +25,8 @@
 						<h1 class="logo__title">{{ .Site.Title }}</h1>
 						{{ with .Site.Params.subtitle }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
 					</a>
+</br>
+<a href="/about"> {{ with .Site.Params.subpage2 }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
 				</div>
 			</div>
 			{{ partial "menu.html" . }}
