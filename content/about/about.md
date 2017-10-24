@@ -62,18 +62,20 @@ Software Developer skilled at technical leadership, communication and presentati
 
 **Associate Java Developer** |  Nov 2013 - Current | **Radio Systems Corporation** | Knoxville, TN
 
-* Automation of builds and deployments for Oracle E-Business Suite using Gradle and Flyway.
-* Created local development environments for Oracle EBS by creating docker containers of application and database images.
-* Facilitated adoption of agile concepts and SDLC workflows within the software development team.
-* Refactored customizations for upgrade of Oracle EBS R11 to R12.
+* Automated application and database builds and deployments for Oracle E-Business Suite using Gradle and Flyway.
+* Configured container for local development environment of Oracle E-Business Suite application and database.
+* Facilitated adoption of SDLC and agile principals within the IT department.
 * Reduced technical debt of the B2B retail eCommerce platform by 35% of the initial code base.
+* Refactored customizations for upgrade of Oracle EBS R11 to R12.
+
 
 **Web Application Developer** | Feb 2011 - Oct 2013 | **Health Care Service Corporation** | Chicago, IL
 
 * Team Lead for high volume transaction processing programs.
 * Reduced run time of critical processes upwards of 20% - 30%.
-* Ensured accurate data processing by comparing program traces from jobs running  on JVM and IBM mainframe.
+* Ensured accurate data processing by comparing program traces from jobs running on JVM and IBM mainframe.
 * Refactored Java programs from converted COBOL.
+* Collaborated with business SMEs and QA testers to ensure accuracy and quick delivery of features.
 
 #### Education
 <hr class="divider">
