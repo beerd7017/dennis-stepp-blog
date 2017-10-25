@@ -80,7 +80,7 @@ Software Developer skilled at technical leadership, communication and presentati
 #### Education
 <hr class="divider">
 
-**Bachelor of Science**, Computer Science | [Ball State University](www.bsu.edu) - Muncie, IN | 2011
+**Bachelor of Science**, Computer Science | [Ball State University](http://cms.bsu.edu/) - Muncie, IN | 2011
 
 #### Certifications
 <hr class="divider">
@@ -92,6 +92,6 @@ Software Developer skilled at technical leadership, communication and presentati
 #### Volunteerism 
 <hr class="divider">
 
-* Stage Manager and Web Developer for [Earl Park Fall Festival Foundation](www.earlparkfestival.com)
-* Game Developer and Web Developer for [Unibear Studio](www.unibearstudio.com)
+* Stage Manager and Web Developer for [Earl Park Fall Festival Foundation](https://www.earlparkfestival.com/)
+* Game Developer and Web Developer for [Unibear Studio](http://unibearstudio.com/)
 * Assist with [KnoxDevs .NET](https://www.meetup.com/Knox-NET/) and [KnoxDevs QA](https://www.knoxqa.com/resources) meetups.
