@@ -34,7 +34,7 @@ Software Developer skilled at technical leadership, communication and presentati
     <td>C#, Cake, Nuget</td>
   </tr>
   <tr>
-    <td>Javascript, HTML, CSS</td>
+    <td>JavaScript, HTML, CSS</td>
     <td>PL/SQL, SQL</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Software Developer skilled at technical leadership, communication and presentati
   </tr>
   <tr>
     <td>JAMStack, CDNs, PIMs</td>
-    <td>Git, Subversion, Mecurial</td>
+    <td>Git, Subversion, Mercurial</td>
    </tr>
    <tr>
     <td>Powershell, Bash</td>
