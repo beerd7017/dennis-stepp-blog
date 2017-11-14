@@ -25,6 +25,8 @@ Now just because you take the assessment and are placed as an 'ENFJ' doesn't mea
 For the record,
 # I am a ISTJ.  
 
+I'm a bit of a flip-flop on the extraversion to introversion. I consider myself to be one of the more extraverted software developers that I know. I prefer to deal with cold-hard facts make decisions on based on data. I'm usually quick to make a decision (if I have enough data to satisfy it) and don't like to be waiting days, weeks, or months on someone to make up their minds when we are (seemingly) wasting time. 
+
 Myers-Briggs Type Indicator gives you a good perspective on what kind of behavior you learn towards on a grand level but we can take a bit deeper of a dive by looking at your strengths finder.
 
 # StrengthsFinder
