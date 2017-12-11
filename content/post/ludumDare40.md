@@ -27,4 +27,6 @@ I was not feeling well at all on Sunday so my development time was suffering. I 
 
 __Day 4__
 
-I finally fixed the UI on my canvas and printed out the score, hit points, and number of alternative shot left. 
+I finally fixed the UI on my canvas and printed out the score, hit points, and number of alternative shot left. I still was not feeling well, so I had to take a nap. When I returned I tested the build and did a not of playtesting. I decided with one hour left before submission to refactor my spawning system so that I could spawn multiple enemy times on each wave. Frantically, I wired this up, ran the build, and turned in my submission.
+
+ 
