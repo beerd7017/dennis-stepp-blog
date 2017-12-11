@@ -15,9 +15,11 @@ The weeks leading up LD40 the plan was to work with a couple other guys but ever
 
 __Day 1__
 
-The theme this time was "**the more you have, the worse it gets.**" I decided I wanted to do a side-scrolling shoot 'em up and got to work on the player controller. Next I worked on firing projectiles and created a bounding box so that the player couldn't leave the view screen. Next, I created the enemy and decided to have the enemy to chase the player. I wanted to simulate the concept of boids but that seemed a bit out of scoope for me in 72 hours (plus get the other stuff done).  
+The theme this time was "**the more you have, the worse it gets.**" I decided I wanted to do a side-scrolling shoot 'em up and got to work on the player controller. Next I worked on firing projectiles and created a bounding box so that the player couldn't leave the view screen. Next, I created the enemy and decided to have the enemy to chase the player. I wanted to simulate the concept of boids but that seemed a bit out of scope for me in 72 hours (plus get the other stuff done).  
 
 __Day 2__
+
+The plan was to start at 8AM. So at 2PM I logged on and began working on tweaking the player speed, projectile speed and fire rate, and enemy speed. Afterward I worked on the damage and power up system. Then I closed the day with creating the spawning system, which only could spawn one type on enemy per wave in that implementation.
 
 __Day 3__
 
