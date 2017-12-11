@@ -23,4 +23,8 @@ The plan was to start at 8AM. So at 2PM I logged on and began working on tweakin
 
 __Day 3__
 
+I was not feeling well at all on Sunday so my development time was suffering. I hooked in the music and audio effects. Then I created the particle effects for the explosions and projectile hits. I finished up with creating a scoring system and assign point values to enemies.
+
 __Day 4__
+
+I finally fixed the UI on my canvas and printed out the score, hit points, and number of alternative shot left. 
