@@ -29,4 +29,6 @@ __Day 4__
 
 I finally fixed the UI on my canvas and printed out the score, hit points, and number of alternative shot left. I still was not feeling well, so I had to take a nap. When I returned I tested the build and did a not of playtesting. I decided with one hour left before submission to refactor my spawning system so that I could spawn multiple enemy times on each wave. Frantically, I wired this up, ran the build, and turned in my submission.
 
+I learned a lot from this experience and had a great time putting this game together. I know some of the systems in this game are painfully coded so I'm planning on returning to some of the systems and making them more abstract and adoptable for other games in the future. In the immediate future I'll be diving into writing some enemy AI functions for another project but it will be interesting to see what I can apply back to this game. My only regret of LD40 is not having a better title for my game ( and being sick for 2 days of it). 
+
  
