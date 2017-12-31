@@ -1,7 +1,7 @@
 +++
 title = "2017: Postmortem"
 description = "A postmortem analysis of 2017"
-date = "2017-12-29"
+date = "2017-12-31"
 categories = ['Programming', 'Software Engineering', 'DevOps', 'Design', 'Productivity']
 tags = ['Ludum Dare', 'Unity', 'Gradle', 'C#', 'Java', 'Powershell', 'Game Development', 'Design', 'Productivity', 'Programming']
 thumbnail = "img/posts/postmortem2017/programmingkid.jpg"
