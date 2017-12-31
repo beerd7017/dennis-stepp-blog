@@ -94,9 +94,3 @@ The third jam took place in December and the theme was **The More You Have, the 
 * Start development and promoting a project I wish to open source [JAMSpace](https://github.com/destepp11/bluegrass-jam).
 
 Looking forward to the new year and everything it has to offer!
-
-
-
-
-
- 
