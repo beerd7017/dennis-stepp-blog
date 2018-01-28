@@ -1,4 +1,4 @@
-# Welcome to the dennis-stepp-blog repo.
+# Welcome to the dennis-stepp-blog repository.
 
 ## Purpose
 This repository is forSource code for Hugo based personal blog of Dennis Stepp. 
