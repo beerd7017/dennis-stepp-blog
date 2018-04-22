@@ -1,7 +1,7 @@
 +++
 title = "Resume"
 description = "My professional resume."
-date = "2018-22-04"
+date = "2018-04-22"
 thumbnail = "img/about/headshot.jpg"
 +++
 
