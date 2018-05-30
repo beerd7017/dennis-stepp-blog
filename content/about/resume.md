@@ -22,7 +22,11 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 <hr class="divider">
 </br>
 
-**Associate Java Developer** |  Nov 2013 - Current | [Radio Systems Corporation](https://radiosystemscorporation.com/) | Knoxville, TN
+**Business Analyst/Programmer** | May 2018 - Present | [Architectural Graphics, Inc.](http://www.agisign.com/) | Knoxville, TN
+
+* Developed console application to geocode customer and vendor addresses.
+
+**Software Engineer** |  Nov 2013 - May 2018 | [Radio Systems Corporation](https://radiosystemscorporation.com/) | Knoxville, TN
 
 * Automated application and database builds and deployments for Oracle E-Business Suite using Gradle and Flyway.
 * Configured container for local development environment of Oracle E-Business Suite application and database.
@@ -41,6 +45,14 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 #### Professional Activities
 <hr class="divider">
 </br>
+
+**Assistant Co-Organizer** | May 2018 - Present | [Knox.NET Meetup](https://www.meetup.com/Knox-NET/) | Knoxville, TN
+
+* Organizing a monthly meetup to cover various topics related to the .NET ecosystem.
+* Promoting the meetup through social media outlets and local channels within the community.
+* Working with sponsors and event locations to provide space, equipment, food, and refreshments.
+* Searching for local and remote speakers to present at meetups.
+
 **Web and Game Developer** | April 2017 – Present | [Unibear Studio](http://unibearstudio.com/) | Indianapolis, IN		
 
 * Implementing UI menus, enemy AI, and levels for 2D platformer based on fictional ancient technology.
@@ -247,6 +259,10 @@ Software Engineer and conference speaker skilled at backend development, Agile a
         <td>KnoxDevs Functional Meetup</td>
         <td>November 2017 – Present</td>
     </tr>
+    <tr>
+        <td>KnoxDevs Java Meetup</td>
+        <td>March 2018 – Present</td>
+    </tr>
 </table>
 
 
@@ -260,6 +276,14 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 * CodePOLusa | Louisville, KY | 2018*
 * DevSpace | Huntsville, AL | 2017
 * Lambda Squared | Knoxville, TN | 2018
+
+**Impress Your Boss By Sitting On Your Ass** | Presented at CodePOLusa 2018, CodeStock 2018, KnoxJava 2018
+
+I’m lazy and you can be too! Here’s a secret: Automation is simple. It may seem daunting in the beginning but the truth is you already know how to automate the build and deployment of your applications even if you are manually intervening at each step. Why not just do all this work once and be done with it? Let us demystify how to write build and deployment scripts in the context of a large monolithic application. I’ll walk you through my journey of automating application and database customizations to Oracle Enterprise Business Suite looking at both the human and technical challenges I encountered.
+
+**Start JAMming with Wyam** | Presented at Knox.NET 2018
+
+Static site generators are awesome. In under an hour you can build your blog, project documentation, or even a very basic eCommerce site. We’ll explore the JAMstack and bare bones implementations of these types of sites. The static site generator we will be using is Wyam, but we will also discuss a few alternatives as well. We will look at using ASP.NET Razor syntax to help us build static pages. Finally, we’ll deploy our site to Netlify CDN with just a commit to GitHub.
 
 _*Denotes conference presentation._
 
