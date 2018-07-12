@@ -25,6 +25,7 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 **Business Analyst/Programmer** | May 2018 - Present | [Architectural Graphics, Inc.](http://www.agisign.com/) | Knoxville, TN
 
 * Developed console application to geocode customer and vendor addresses.
+* Developed WinForms application for field service calls.
 
 **Software Engineer** |  Nov 2013 - May 2018 | [Radio Systems Corporation](https://radiosystemscorporation.com/) | Knoxville, TN
 
@@ -65,6 +66,10 @@ Software Engineer and conference speaker skilled at backend development, Agile a
         * https://ldjam.com/events/ludum-dare/39/fizzle
     * Ludum Dare 40 – Title: SpaceBadies – Genre: Arcade – Overall Ranking: **411th of 2892** submissions.
         * https://ldjam.com/events/ludum-dare/40/spacebadies
+
+**Founder and Web Developer** | June 2018 – Present | [BluegrassJam.Org](https://www.bluegrassjam.org/) | Knoxville, TN
+
+* Implemented website to share chord sheets and lyrics for popular bluegrass songs.
 
 **Web Developer and Stage Manager** | January 2013 – Present | [Earl Park Fall Festival Foundation](https://www.earlparkfestival.com/) | Earl Park, Indiana
 
@@ -274,7 +279,7 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 * Butler Undergraduate Research Conference | Indianapolis, IN | 2011*
 * CodeStock | Knoxville, TN | 2015, 2016, 2017, 2018*
 * CodePOLusa | Louisville, KY | 2018*
-* DevSpace | Huntsville, AL | 2017
+* DevSpace | Huntsville, AL | 2017, 2018*
 * Lambda Squared | Knoxville, TN | 2018
 
 **Impress Your Boss By Sitting On Your Ass** | Presented at CodePOLusa 2018, CodeStock 2018, KnoxJava 2018
