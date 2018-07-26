@@ -285,11 +285,11 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 
 **Impress Your Boss By Sitting On Your Ass** | Presented at CodePOLusa 2018, CodeStock 2018, KnoxJava 2018
 
-I’m lazy and you can be too! Here’s a secret: Automation is simple. It may seem daunting in the beginning but the truth is you already know how to automate the build and deployment of your applications even if you are manually intervening at each step. Why not just do all this work once and be done with it? Let us demystify how to write build and deployment scripts in the context of a large monolithic application. I’ll walk you through my journey of automating application and database customizations to Oracle Enterprise Business Suite looking at both the human and technical challenges I encountered.
+I’m lazy and you can be too! Here’s a secret: Automation is simple. It may seem daunting in the beginning but the truth is you already know how to automate the build and deployment of your applications even if you are manually intervening at each step. Why not just do all this work once and be done with it? Let us demystify how to write build and deployment scripts in the context of a large monolithic application. I’ll walk you through my journey of automating applications and database migrations for .NET and/or Java looking at both the human and technical challenges I encountered.
 
 **Start JAMming with Wyam** | Presented at Knox.NET 2018
 
-Static site generators are awesome. In under an hour you can build your blog, project documentation, or even a very basic eCommerce site. We’ll explore the JAMstack and bare bones implementations of these types of sites. The static site generator we will be using is Wyam, but we will also discuss a few alternatives as well. We will look at using ASP.NET Razor syntax to help us build static pages. Finally, we’ll deploy our site to Netlify CDN with just a commit to GitHub.
+Static site generators are awesome. In under an hour you can build your blog, project documentation, or even a very basic eCommerce site. We’ll explore the JAMstack and bare bones implementations of these types of sites. We'll build a couple of sites with different site generators and show off automated deployment with GitHub hooks and Netlify CDN.
 
 _*Denotes conference presentation._
 
