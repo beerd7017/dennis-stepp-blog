@@ -281,6 +281,7 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 * CodePOLusa | Louisville, KY | 2018*
 * DevSpace | Huntsville, AL | 2017, 2018*
 * Lambda Squared | Knoxville, TN | 2018
+* Phreaknic | Nashville, TN | 2018*
 
 **Impress Your Boss By Sitting On Your Ass** | Presented at CodePOLusa 2018, CodeStock 2018, KnoxJava 2018
 
