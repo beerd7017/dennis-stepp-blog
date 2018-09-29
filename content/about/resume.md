@@ -22,7 +22,7 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 <hr class="divider">
 </br>
 
-**Business Analyst/Programmer** | May 2018 - September 2018 | [Architectural Graphics, Inc.](http://www.agisign.com/) | Knoxville, TN
+**Business Analyst/Programmer** | May 2018 - Sept 2018 | [Architectural Graphics, Inc.](http://www.agisign.com/) | Knoxville, TN
 
 * Developed console application to geocode customer and vendor addresses.
 * Developed WinForms application for field service calls.
