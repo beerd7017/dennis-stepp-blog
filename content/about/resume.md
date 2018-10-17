@@ -22,6 +22,8 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 <hr class="divider">
 </br>
 
+**Quality Assurance Engineer** | October 2018 - Present | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
+
 **Business Analyst/Programmer** | May 2018 - Sept 2018 | [Architectural Graphics, Inc.](http://www.agisign.com/) | Knoxville, TN
 
 * Developed console application to geocode customer and vendor addresses.
