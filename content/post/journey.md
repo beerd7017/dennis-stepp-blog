@@ -4,7 +4,7 @@ description = ""
 date = "2018-05-11"
 categories = ['Programming', 'Software Engineering', 'Soft Skills', 'Productivity']
 tags = ['Productivity', 'Programming']
-thumbnail = "img/posts/journey/journey.jpg"
+thumbnail = "img/posts/journey/journey.png"
 +++
 
 Today was my last day at [Radio Systems Corporation](https://radiosystemscorporation.com/). The decision to leave did not come over night and it wasn't easy to make.
