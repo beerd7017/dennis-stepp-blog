@@ -29,7 +29,7 @@ I decided to design my week with some themes that I feel are important for a sof
 > Reinventing and cleaning your code. Paying off technical debt.
 
 ### Personal Development 
-> Reading blogs, listening to Podcasts, conferences, and reflect.
+> Reading blogs, listening to podcasts, conferences, and reflect.
 
 ### Not Negotiable 
 > Lunch, workout, remove yourself from your desk and pull your mind away from what you are working on.

@@ -24,7 +24,7 @@ The amount of things to learn in technology is beyond my comprehension. Certain 
 
 ## Team lunch/outings
 
-Simuallary to the Daily Bullshit Contest, a team that wants to spend time together is a sign that things are going to be alright for you in you new project. We spend more time with our co-workers than we do with our families and seeing your team want to grab lunch together or grab a beer after (during) work shows that the team is durable. If a PM throws a clusterf**k of a project at them they can more likely sort their way through it. Without that level of collaboration and trust that project may look a lot more grim.
+Similarly to the Daily Bullshit Contest, a team that wants to spend time together is a sign that things are going to be alright for you in you new project. We spend more time with our co-workers than we do with our families and seeing your team want to grab lunch together or grab a beer after (during) work shows that the team is durable. If a PM throws a clusterf**k of a project at them they can more likely sort their way through it. Without that level of collaboration and trust that project may look a lot more grim.
 
 # Culture in the Workplace
 <hr class="divider">
