@@ -53,7 +53,7 @@ When you're ready commit your source code to your GitHub repository.
 
 # Deploy to Netlify
 
-![netlify](/img/posts/hugo/netlify-content.jpg "Netlify")
+![netlify](/img/posts/hugo/netlify-content.png "Netlify")
 
 Sign up on [Netlify](https://app.netlify.com/signup) with your GitHub account. You can hookup your Git repo to Netlify and literally deploy your site just by committing your source code.
 

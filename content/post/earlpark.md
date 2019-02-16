@@ -23,7 +23,7 @@ There in the shade a few hundred people sat on benches on in their lawn chairs a
 
 ![tractorpull](/img/posts/earlpark/tractorpull.png  "Tractor Pull")
 
-While grandma sat there reading her book, grandpa would just be watching the audience. As a kid I kind of wondered why he wasn't watching the musicians but as a got a little older I figured out the he watched the audience for their reaction to the band on stange.
+While grandma sat there reading her book, grandpa would just be watching the audience. As a kid I kind of wondered why he wasn't watching the musicians but as a got a little older I figured out the he watched the audience for their reaction to the band on stage.
 See grandpa was in charge for years to hire the bluegrass bands to play over the weekend and I don't think he had a musical bone in his body. But he knew what worked.
 
 ![bluegrass](/img/posts/earlpark/bluegrass.png  "Bluegrass")

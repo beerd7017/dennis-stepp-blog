@@ -37,7 +37,7 @@ Since I'm three beers into this post already, I don't really want to think in a 
 
 In a new 2D project, let's Add a `Text` object to our scene. `GameObject | UI | Text` and let's name it `_textHello`.
 
-![2_hierarchry](/img/posts/helloUnity/2_hierarchry.png  "Hierarchry")
+![2_hierarchy](/img/posts/helloUnity/2_hierarchry.png  "Hierarchy")
 
 In the `Inspector` perspective, let's set the properties of `_textHello`:
 
@@ -58,7 +58,7 @@ Now let's run the game and take a look at what we have done so far (notice the o
 
 Let's build a digital clock. Add a `Text` objects to our scene. `GameObject | UI | Text` and let's name it `_textClock`.
 
-![5_hierarchry](/img/posts/helloUnity/5_hierarchry.png  "Hierarchry")
+![5_hierarchy](/img/posts/helloUnity/5_hierarchry.png  "Hierarchy")
 
 In the `Inspector` perspective, let's set the properties of `_textClock`:
 
