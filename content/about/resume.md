@@ -11,7 +11,7 @@ Knoxville, TN | [destepp11@gmail.com](mailto:destepp11@gmail.com) | [865-776-244
 
 #### Professional Summary            
 <hr class="divider">
-Software Engineer and conference speaker skilled at backend development, Agile and DevOps principals and practices, technical leadership, communication, and presentations. Experienced with greenfield development and sustainment work in all phases of the software development lifecycle.
+Product Owner, Software Engineer, and Conference Speaker skilled at backend development, Agile and DevOps principals and practices, technical leadership, communication, and public speaking. Experienced with greenfield and brownfield development and sustainment work in all phases of the software development lifecycle.
 
 #### Education
 <hr class="divider">
@@ -22,7 +22,15 @@ Software Engineer and conference speaker skilled at backend development, Agile a
 <hr class="divider">
 </br>
 
-**Quality Assurance Engineer** | October 2018 - Present | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
+**Product Owner** | July 2019 - Present | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
+
+**Quality Assurance Engineer** | October 2018 - July 2019 | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
+
+* Examined Risk Based Analysis to evaluate impacts on multiple business units.
+* Developed automated tests for integration, functional, and system-wide testing using Spock and RestAssured.
+* Design and Developed micro-services using technologies such as Packer, Terraform, Kubernetes, Docker, Java, and Groovy.
+* Executed and prepared manual test plans across a suite of micro-services to deliver a MVP product.
+* Identified system defects based on technical and usability concerns. 
 
 **Business Analyst/Programmer** | May 2018 - Sept 2018 | [Architectural Graphics, Inc.](http://www.agisign.com/) | Knoxville, TN
 

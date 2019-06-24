@@ -8,14 +8,14 @@ googleAnalytics = "UA-106319098-1" # Enable Google Analytics by entering your tr
 
 [Author]
     name = "Dennis Eugene Stepp, Jr."
-    bio = "I am a software developer in Knoxville, TN. I'm also a game/web developer with Unibear Studio, and stage manager/web developer with the Earl Park Fall Festival Foundation. My interests include: process and workflow optimization, automation, JAMstack technologies, software architecture, object oriented languages, and game development. I also collect retro PC/console video games, dabble in gardening and woodworking. I have a passion for craft beer, especially while playing recreational ice hockey."
+    bio = "I am a product owner for Lirio, LLC in Knoxville, TN. I'm also a game/web developer with Unibear Studio, and stage manager with the Earl Park Fall Festival Foundation. My interests include: process and workflow optimization, automation, JAMstack technologies, software architecture, object oriented languages, and game development. I also collect retro PC/console video games, dabble in gardening and woodworking. I have a passion for craft beer, especially while playing recreational ice hockey."
     avatar = "img/profile.png"
 
 [Params]
     subpage1 = "Posts"
     subpage2 = "About Me"
     subtitle = "Sharpen Your Axe" # Subtitle of your site
-    description = "The journey of sharping technical and soft skills as a software developer." # Description of your site
+    description = "The journey of sharping technical and soft skills as a technologist." # Description of your site
     opengraph = true
     readmore = false # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
