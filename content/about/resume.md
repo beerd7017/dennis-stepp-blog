@@ -22,9 +22,9 @@ Product Owner, Software Engineer, and Conference Speaker skilled at backend deve
 <hr class="divider">
 </br>
 
-**Product Owner** | July 2019 - Present | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
+**Product Owner** | June 2019 - Present | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
 
-**Quality Assurance Engineer** | October 2018 - July 2019 | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
+**Quality Assurance Engineer** | October 2018 - June 2019 | [Lirio, LLC.](https://lirio.co/) | Knoxville, TN
 
 * Examined Risk Based Analysis to evaluate impacts on multiple business units.
 * Developed automated tests for integration, functional, and system-wide testing using Spock and RestAssured.
