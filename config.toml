@@ -8,7 +8,7 @@ googleAnalytics = "UA-106319098-1" # Enable Google Analytics by entering your tr
 
 [Author]
     name = "Dennis Eugene Stepp, Jr."
-    bio = "I am a product owner for Lirio, LLC in Knoxville, TN. I'm also a game/web developer with Unibear Studio, and stage manager with the Earl Park Fall Festival Foundation. My interests include: process and workflow optimization, automation, JAMstack technologies, software architecture, object oriented languages, and game development. I also collect retro PC/console video games, dabble in gardening and woodworking. I have a passion for craft beer, especially while playing recreational ice hockey."
+    bio = "I passionately deliver innovative software solutions that enhance the customer experience and maximize business value. Building upon over eight years of software engineering experience I assist technologists in architecture, automation, design, implementation, testing, and workflow. I continuously broaden my skills through game development, conference speaking, and networking within the software development community."
     avatar = "img/profile.png"
 
 [Params]
