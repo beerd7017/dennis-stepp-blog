@@ -18,7 +18,7 @@ Here's the dimensions for anyone that's playing at home:
 * Height: 8.00 inches
 
 **Back:**
-* Width: 7.865 inches
+* Width: 6.865 inches
 * Height: 8.00 inches
 
 Here's how Battle Arena Toshinden Remix turned out with some before and after pics. Not too shabby for a cheap ass ink-jet printer.
