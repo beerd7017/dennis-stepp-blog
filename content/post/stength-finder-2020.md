@@ -1,6 +1,6 @@
 +++
 title = "Strength Finders Revisited - 2020 Edition"
-description = "If you are a game collector it is a joy to show and tell people about your game collection. Unfortunately, some of the games in the collect might have broken or beat up boxes. Cover art seems to go missing quite a bit and it really drags down the overall appearance of the rest of the collection. The good news is that you can solve those issues."
+description = "Understanding your strengths and behaviors can help you be more effective in your career and personal life. We are naturally good at certain things and we work better with some people better than others. I think it's important to not only understand yourself but the team you work with as well."
 date = "2020-01-26"
 categories = ['Communication', 'Productivity']
 tags = ['Myers-Briggs', 'Strength Finders']
@@ -8,9 +8,6 @@ thumbnail = "/img/posts/strength-finder-2020/strength-matrix.jpg"
 +++
 
 In November of 2017, I wrote [a post](https://www.dennis-stepp.com/post/strengths/) about the results of Strength Finders: a [personal assessment](https://www.gallupstrengthscenter.com) developed by American psychologist, Donald O. Clifton. This assessment has helped me over the last few years of my career. A colleague of mine suggested that I retake the assessment and the result both surprised and also didn't surprise me.
-
-
-Understanding your strengths and behaviors can help you be more effective in your career and personal life. We are naturally good at certain things and we work better with some people better than others. I think it's important to not only understand yourself but the team you work with as well.
 
 # StrengthsFinder
 
