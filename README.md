@@ -1,7 +1,7 @@
 # Welcome to the dennis-stepp-blog repository.
 
 ## Purpose
-This repository is forSource code for Hugo based personal blog of Dennis Stepp. 
+This repository is for Source code for Hugo based personal blog of Dennis Stepp. 
 
 ## Rules of the Repository
 * Master branch is production, period.
