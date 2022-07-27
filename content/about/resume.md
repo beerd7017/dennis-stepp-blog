@@ -1,6 +1,7 @@
 +++
 title = "Dennis Stepp - Software Engineer"
-description = "I passionately deliver innovative software solutions that enhance the customer experience and maximize business value. Building upon over eight years of software engineering experience I assist technologists in architecture, automation, design, implementation, testing, and workflow. I continuously broaden my skills through game development, conference speaking, and networking within the software development community."
+description = "I passionately deliver observable software solutions enhancing customer experience and maximizing business value. Data drives my decisions. I partner, not direct.  Context is critical. Learning is continuous. Conciseness is key."
 +++
 
-![resume](/img/about/dennis-stepp-resume.png  "Resume")
+![resume](/img/about/dennis-stepp-resume-1.png  "Resume")
+![resume](/img/about/dennis-stepp-resume-2.png  "Resume")
