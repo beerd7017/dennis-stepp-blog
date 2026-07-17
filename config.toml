@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+locale = "en-us"
 pagination.pagerSize = "5"
 title = "Dennis Eugene Stepp, Jr."
 theme = "mainroad"

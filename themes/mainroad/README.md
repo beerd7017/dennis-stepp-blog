@@ -45,7 +45,7 @@ For more information read the official [setup guide](https://gohugo.io/themes/in
 ```toml
 baseurl = "/"
 title = "Mainroad"
-languageCode = "en-us"
+locale = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
